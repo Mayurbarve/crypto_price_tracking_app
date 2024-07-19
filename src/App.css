@@ -1,0 +1,5 @@
+.app{
+    min-height: 100vh;
+    color: white;
+    background: linear-gradient(#1c2541, #003554, #5bc0be, #3a506b);
+  }
