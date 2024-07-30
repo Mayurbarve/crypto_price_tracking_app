@@ -1,4 +1,6 @@
 # Crypto Price Tracking App
+![image](https://github.com/user-attachments/assets/8b28d539-9468-493b-9f3d-500ed22738f6)
+
 
 Welcome to the Crypto Price Tracking App! This application provides real-time tracking and detailed metrics for various cryptocurrencies. Below are the key features of this app:
 
